@@ -1,4 +1,4 @@
-import 'package:chat_appv2/widgets.dart/conversationList.dart';
+import 'package:chat_appv2/widgets/conversationList.dart';
 import 'package:chat_appv2/auth/methods.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/src/widgets/container.dart';
